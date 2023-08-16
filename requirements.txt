@@ -12,3 +12,4 @@ flask_cors
 requests
 revchatgpt
 gunicorn>=20.1.0
+gevent
